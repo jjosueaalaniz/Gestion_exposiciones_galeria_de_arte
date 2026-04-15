@@ -1,11 +1,3 @@
-# Sistema de Gestión de Exposiciones - Galería de Arte
-
-<p>
-  <img src="https://img.shields.io/badge/C++-Proyecto-blue" />
-  <img src="https://img.shields.io/badge/POO-Enfoque-green" />
-  <img src="https://img.shields.io/badge/Estructuras-ABB-orange" />
-  <img src="https://img.shields.io/badge/Estado-Académico-lightgrey" />
-</p>
 
 > Proyecto académico enfocado en modelado de sistemas y eficiencia en tiempo de ejecución.
 
@@ -61,18 +53,4 @@ Este enfoque apunta a que el sistema pueda escalar sin comprometer su rendimient
 + Modelado de sistemas
 + Lógica de negocio
 ```
-
----
-
-## Compilación
-
-```bash
-g++ main.cpp clases.cpp -o programa
-./programa
-```
-
----
-
-## Objetivo del proyecto
-
 Aplicar conceptos vistos en la facultad en un caso práctico, con foco en el diseño de sistemas, el uso de estructuras de datos y la resolución eficiente de problemas.
